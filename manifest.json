@@ -1,0 +1,17 @@
+{
+  "name": "ZERO Track - Subscription Tracker",
+  "short_name": "ZERO Track",
+  "description": "A simple and elegant application to track your subscriptions, manage payments, and receive timely reminders before you get charged.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#84cc16",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
